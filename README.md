@@ -1,4 +1,5 @@
 Architecture Overview
+----------------------
 The website builder is built using a modern React architecture with TypeScript, focusing on modularity, maintainability, and extensibility.
 
 Core Technologies
